@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
     paddingTop: 20,
   },
   title: {
-    color: colors.white,
+    color: colors.black,
+    fontFamily:"Italic",
   },
 });
